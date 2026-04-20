@@ -31,7 +31,7 @@ I am passionate about building intelligent systems using deep learning, computer
 - NPTEL Machine Learning & Java  
 
 ##  Live Website
- https://18pranee.github.io  
+http://127.0.0.1:5500/index.html
 
 ##  Contact
 - Email: pg4902@srmist.edu.in  
